@@ -108,7 +108,7 @@
 * **정리**: Kotlin coroutine에 대해 자세히 알아보었다.
 * **느낀점**: coroutine을 혼자 공부할 때는 이해하기 어려웠는데 이렇게 들으니까 쉽게 이해할 수 있었다.
 
-7. Kotlin @ coupang Backend 적용기
+## Kotlin @ coupang Backend 적용기
 
 * Kotlin의 Coroutine과 Extension method 등을 이용하여 서버의 퍼포먼스 개선. 빠르다고 한다.
 
