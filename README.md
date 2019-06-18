@@ -4,6 +4,10 @@
 * 제가 이해한 내용대로 적어둔 것이라서 주관적이고, 틀린 내용이 있을 수도 있습니다. 
 * 틀린 내용을 발견하시면 고쳐주시고 여러분들의 경험도 공유해주세요!
 
+## 컨트리뷰트 조건
+* 딱히 정해진 조건은 없습니다! 내용이 꼭 특정 기술과 관련되지 않아도 됩니다.
+* 문서를 추가하시면 꼭 ReadMe에 링크를 달아주세요!
+
 ## Android
 * [2018 GDG Devfest in Daejeon](https://github.com/jinusong/Went-To-Conference/blob/master/2018%20GDG%20Devfest%20in%20Daejeon.md)
 
