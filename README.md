@@ -16,10 +16,10 @@
 ## 2019
 * [Droid Knights](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Droid%20Knights)
 
-* [2019 GDG Android super.init()](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Super%20Init)
+* [GDG Android super.init()](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Super%20Init)
 
-* [2019 GDG Anroid Io Extended](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Io%20Extended)
+* [GDG Anroid Io Extended](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Io%20Extended)
 
-* [2019 GDG Campus Daily 만년 Junior들의 이야기](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Delhi%20Manju)
+* [GDG Campus Daily 만년 Junior들의 이야기](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Delhi%20Manju)
 
 * [ForD 나의 개발이야기](https://github.com/jinusong/Went-To-Conference/tree/master/2019/My%20DevelopStory)
