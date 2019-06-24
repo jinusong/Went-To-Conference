@@ -3,6 +3,8 @@
 
 ## RxJava 구독과 구독 제거 메커니즘
 
+* [발표자료](https://drive.google.com/file/d/1LPKPZaKB_mKTK1T9QRi3svRpxxAQ8oir/view)
+
 * RxJava를 사용할 때 좀 더 구독과 구독 제거를 잘할 수 있도록 하는 발표
 
 * 구독이란 Observable과 Observer를 연결하는 것
@@ -54,6 +56,8 @@
 
 ## 지금까지 이런 간단한 Logic 처리는 없었다. 이것은 Rx인가, UI 이벤트인가? 네, RxBinding 입니다.
 
+* [발표자료](https://drive.google.com/file/d/1Hf3AGbSrEUA67Hr6hU_5c0vik8mZok3Z/view)
+
 * RxBinding이란 Android UI의 다양한 이벤트들을 Observable로 바꿔주는 라이브러리입니다.
 
 * RxBinding을 사용하는 이유는 직관성, 선언성, 확장성, 복합성, 변화성 모두 5가지가 있습니다.
@@ -84,6 +88,8 @@
 * **느낀점**: RxJava로 리액티브 프로그래밍 공부한 뒤 들으니까 흐름은 이해할 수 있었는데 뭔가 70프로 정도 이해한 것 같은 느낌이다.
 
 ## Clean Architecture (in Android) Revised
+
+* [발표자료](https://speakerdeck.com/sunghyunzz/clean-architecture-in-android-revised)
 
 * 2017년 Clean Architecture (in Android) 발표를 다시 새롭게 바로잡는 발표입니다.
 
@@ -135,6 +141,8 @@
 
 ## 오프라인과 앱 서비스
 
+* [발표자료](https://speakerdeck.com/cyber7eyes/opeuraingwa-aebseobiseu-deuroideu-naiceu-2019)
+
 * 첫 번째 방법은 예외 처리입니다.
 
 * 에러가 발생하면 cache의 데이터를 가져옵니다. 이 과정에서 Clean Architecture의 Data Manager를 많이 건드립니다.
@@ -161,6 +169,8 @@
 * **느낀점**: DMS에 넣어도 좋을 것 같다.
 
 ## Large-Scale App을 위한 아키텍쳐 총정리
+
+* [발표자료](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 
 * Model: State + 비즈니스 로직 + 데이터 저장소 (비즈니스 로직)
 
@@ -196,6 +206,8 @@
 
 ## PWA 품은 안드로이드 웹뷰 성능 개선기
 
+* [발표자료](https://speakerdeck.com/tinyjin/pwa-pumeun-andeuroideu-webbyu-seongneung-gaeseongi)
+
 * PWA 캐시를 하면 웹뷰를 쓸 때보다 훨씬 빠르다고 합니다.
 * 구글에서 WorkBox 라이브러리로 PWA를 쉽게 구현할 수 있습니다.
 * 이미 웹뷰가 적극적으로 적용된 앱이라면 부담없이 적용할 수 있을 것입니다.
@@ -204,6 +216,8 @@
 * **느낀점**: 웹뷰를 적극적으로 사용해본적은 없지만 사용하게 된다면 한번 적용해보고 싶어졌다.
 
 ## Dagger vs Koin 어떻게 쓰는 건가요??
+
+* [발표자료](https://speakerdeck.com/hyunji92/how-to-use-dagger2-and-koin)
 
 * DI란? 의존성이 크다라는 건 두 클래스의 결합도가 깊다는 것을 뜻합니다.
 
@@ -231,6 +245,8 @@
 * **느낀점**: 솔직히 의존성 사용으로 얻는 장점에 대해서는 모호했는데 발표를 듣고 명확해졌다.
 
 ## Advanced MVP
+
+* [발표자료](https://speakerdeck.com/gorita/advanced-mvp-refactoring-mvp)
 
 * View는 passive하게 작성하여 UnitTest가 쉽도록 작성해야 합니다.
 
