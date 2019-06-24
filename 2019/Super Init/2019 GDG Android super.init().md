@@ -2,6 +2,9 @@
 2019년 MARU180에서 열린 GDG Android super.init()에서 여러 세션들을 보고 들은 것을 메모한 문서입니다.
 
 ##  Flutter - Ma'at Pick 서비스 개발기
+
+https://speakerdeck.com/dsa28s/2019-gdg-android-super-dot-init-maat-pick-for-flutter
+
 * “맛픽이라는 서비스를 IOS에서도 지원하기 위해 하이브리드 앱을 만들어보자!” 해서 Fluuter를 사용했다고 하신다. 
 * UI가 IOS랑 Android랑 별로 차이가 나지 않아 Flutter로 개발을 했다고 한다.
 * Flutter는 반응형을 지원하는데 리액트 네이티브와 다르게 브릿지가 필요하지 않았음
@@ -31,6 +34,9 @@ Redux의 구조: Action, Middleware, Reducer, Store 등으로 이루어져 있�
 * **느낀점**: 되게 배울점과 느낀점이 많은 발표였다.
 
 ## Gradle 파일 정독
+
+https://www.slideshare.net/ssusere1baae/gradle-131112538
+
 * DSL이란? : 어느 한 도메인에 특화되어 있는 컴퓨터 언어 (딱히 DSL이다 아니다 나누지는 않음)
 * Gradle의 DSL은 Groovy라는 언어인데 이 언어는 자바에 루비와 파이썬의 특징을 더한 언어이다. DSL을 목적으로 나온 언어이기 때문에 최대한 문법은 영어문법괴 비슷하게 되어 있다.
 * 여기서 Gradle의 모습을 이해하기 위한 문법인데 Groovy에서는 Kotlin과 같이 변수에 함수를 담을 수 있는 문법이다(위임). 여기서 Gradle의 일반적인 모습을 연상할 수 있었다.
@@ -46,6 +52,9 @@ Redux의 구조: Action, Middleware, Reducer, Store 등으로 이루어져 있�
 * **느낀점**: 개발을 하면서 지나쳤던 Gradle에 대해 좀 더 자세하게 알 수 있어서 좋았다.
 
 ## 모두 같이 사용하는 앱, 렛츠기릿
+
+https://www.slideshare.net/TrudyhLee/edit-super-initappforeveryone
+
 * 모두 같이 사용하는 앱이란?: 접근성을 고려한 앱이다.
 *  접근성을 왜 고려해야하지?: 우리가 자주 사용하는 패스트푸드 점의 키오스크 같은 무인 주문기를 장애인은 사용할 수 없다고 한다. 전세계인구 중 15%가  장애인인 것을 생각한다면 필수적으로 고려해야하는 사항이다.
 * 시각장애인들도 사용할 수 있도록 코드에 레이블을 달아서 각 화면의 구성요소들이 무슨 역할을 하는지 설정할 수 있다. (이외에도 포커스도 설정 가능) - 톡 백
