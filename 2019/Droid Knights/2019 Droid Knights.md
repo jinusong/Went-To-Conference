@@ -3,6 +3,8 @@
 
 ## RxJava 구독과 구독 제거 메커니즘
 
+* [발표영상](https://www.youtube.com/watch?v=rKP2XL8YxMo)
+
 * [발표자료](https://drive.google.com/file/d/1LPKPZaKB_mKTK1T9QRi3svRpxxAQ8oir/view)
 
 * RxJava를 사용할 때 좀 더 구독과 구독 제거를 잘할 수 있도록 하는 발표
@@ -56,6 +58,8 @@
 
 ## 지금까지 이런 간단한 Logic 처리는 없었다. 이것은 Rx인가, UI 이벤트인가? 네, RxBinding 입니다.
 
+* [발표영상](https://www.youtube.com/watch?v=uyUK65AUQOI)
+
 * [발표자료](https://drive.google.com/file/d/1Hf3AGbSrEUA67Hr6hU_5c0vik8mZok3Z/view)
 
 * RxBinding이란 Android UI의 다양한 이벤트들을 Observable로 바꿔주는 라이브러리입니다.
@@ -88,6 +92,8 @@
 * **느낀점**: RxJava로 리액티브 프로그래밍 공부한 뒤 들으니까 흐름은 이해할 수 있었는데 뭔가 70프로 정도 이해한 것 같은 느낌이다.
 
 ## Clean Architecture (in Android) Revised
+
+* [발표영상](https://www.youtube.com/watch?v=5eOYb0Yvqh0)
 
 * [발표자료](https://speakerdeck.com/sunghyunzz/clean-architecture-in-android-revised)
 
@@ -170,6 +176,8 @@
 
 ## Large-Scale App을 위한 아키텍쳐 총정리
 
+* [발표영상](https://www.youtube.com/watch?v=0LL7FCWTxoo)
+
 * [발표자료](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 
 * Model: State + 비즈니스 로직 + 데이터 저장소 (비즈니스 로직)
@@ -217,6 +225,8 @@
 
 ## Dagger vs Koin 어떻게 쓰는 건가요??
 
+* [발표영상](https://www.youtube.com/watch?v=mbntrG0LKtE)
+
 * [발표자료](https://speakerdeck.com/hyunji92/how-to-use-dagger2-and-koin)
 
 * DI란? 의존성이 크다라는 건 두 클래스의 결합도가 깊다는 것을 뜻합니다.
@@ -245,6 +255,8 @@
 * **느낀점**: 솔직히 의존성 사용으로 얻는 장점에 대해서는 모호했는데 발표를 듣고 명확해졌다.
 
 ## Advanced MVP
+
+* [발표영상](https://www.youtube.com/watch?v=ooMT69xOiKI)
 
 * [발표자료](https://speakerdeck.com/gorita/advanced-mvp-refactoring-mvp)
 
