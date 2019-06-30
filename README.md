@@ -19,7 +19,9 @@
 
 * [GDG Android super.init()](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Super%20Init)
 
-* [GDG Anroid Io Extended](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Io%20Extended)
+* [GDG Android Io Extended](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Io%20Extended)
+
+* [GDG Seoul Io Extended](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Io%20Extended)
 
 * [GDG Campus Daily 만년 Junior들의 이야기](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Delhi%20Manju)
 
