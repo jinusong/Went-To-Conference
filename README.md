@@ -26,3 +26,5 @@
 * [GDG Campus Daily 만년 Junior들의 이야기](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Delhi%20Manju)
 
 * [ForD 나의 개발이야기](https://github.com/jinusong/Went-To-Conference/tree/master/2019/My%20DevelopStory)
+
+* [Naver Techconcert](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Naver%20Tech%20concert)
