@@ -30,3 +30,20 @@
 * [Naver Techconcert](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Naver%20Tech%20concert)
 
 * [Toy Story](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Toy%20Stroy)
+
+# 기본양식
+* 기본 양식입니다! 조금 변형하셔도 상관없습니다.
+
+# 컨퍼런스 이름
+
+## 소개
+* 문서 소개 내용
+
+## 발표 제목 - 연사자 성함
+* (내용1)
+* (내용2)
+* ....
+
+
+* **정리**: 바쁘신 분을 위한 한줄 정리입니다.
+* **느낀점**: 발표에서 느낀 점을 적어주세요.
