@@ -30,3 +30,5 @@
 * [Naver Techconcert](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Naver%20Tech%20concert)
 
 * [Toy Story](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Toy%20Stroy)
+
+* [GDG Daejeon](https://github.com/jinusong/Went-To-Conference/blob/master/2019/GDG%20Daejeon/2019%20GDG%20Daejeon)
