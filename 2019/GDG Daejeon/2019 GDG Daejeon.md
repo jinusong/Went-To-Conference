@@ -1,14 +1,30 @@
 # GDG Daejeon 2019
 
+## 소개
+2019년 GDG Daejeon에서 여러 발표들을 들었는데요, 이를 요약한 문서입니다.
+
+
 ## ML on Google Cloud (백재연님)
 
 - GC를 이용하여 클라우드 환경에서 ML을 구성할 수 있음
 - 중소기업이나 소규모로 진행하는 경우에는 비용 측면에서 비효율적일 수 있으니 합리적인 판단이 필요
+    - (e.g. 소규모 작업 환경에서는 자체 워크스테이션 구축이 더 효율적일 수 있음)
 - Contact Center API
     - 인공지능이 사람과 직접 전화를 하여 예약을 잡아주는 기능
     - (e.g. 미용실 등)
 
+- *정리*: 클라우드 환경에서의 ML은 여러 장점이 존재한다.
+- *느낀점*: 클라우드를 활용한 ML은 정말 신기했다. 서비스 제공 목적의 강화학습을 진행할 때 유용해 보였다.
+
 ## Web Updates at I/O 2019 (조은님)
+
+- [Google I/O 2019: What's new with Chrome and the Web](https://blog.chromium.org/2019/05/google-io-2019-whats-new-with-chrome.html)
+
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/?hl=ko)
+- [Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=ko)
+
+- *정리*: 웹 분야에 여러 새로운 기술들이 추가되었다.
+- *느낀점*: 열심히 들었던 것 같은데 시간이 꽤 지났더니 기억이 잘 안나네요 ㅠㅠ 죄송합니다
 
 ## What's New in Android Studio (노현석님)
 
