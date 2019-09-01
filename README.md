@@ -23,6 +23,8 @@
 ### GDG
 * [GDG Android super.init()](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Super%20Init)
 
+* [GDG Android 안드로이드 탐구영역](https://github.com/jinusong/Went-To-Conference/blob/master/2019/Android%20Inquiry%20Area/2019%20Android%20Testing%20Inquiry%20Area.md)
+
 * [GDG Android Io Extended](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Io%20Extended)
 
 * [GDG Seoul Io Extended](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Io%20Extended)
@@ -39,7 +41,8 @@
 ### Naver
 * [Naver Techconcert](https://github.com/jinusong/Went-To-Conference/tree/master/2019/Naver%20Tech%20concert)
 
-
+## Kakao
+* [If kakao](https://github.com/jinusong/Went-To-Conference/blob/master/2019/If%20kakao/2019%20If%20kakao%20-%20day1.md)
 =======
 --------------
 
